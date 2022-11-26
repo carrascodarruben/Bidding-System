@@ -1,4 +1,4 @@
-# React-Bidding-System
+# Bidding-System
 
 ## React-express-websocket based Bidding system
 
@@ -76,7 +76,6 @@ A socket connection is established between client and server when client page lo
   
         
    
- 
  
      
         
